@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Calendar App Using ReactJS
 
 This is an event calendar built using ReactJS.
 This is an assignment for the React.js internship under Solvevolve pvt ltd.
