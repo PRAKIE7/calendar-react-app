@@ -6,6 +6,15 @@ This is an assignment for the React.js internship under Solvevolve pvt ltd.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
+## Screenshots
+
+![Screen-1](https://user-images.githubusercontent.com/97822366/193617444-86a9f875-4ac9-4d59-b088-ec4008c5c420.png)
+
+![Screen-2](https://user-images.githubusercontent.com/97822366/193617505-61ca98c9-9988-4050-9e80-199870a44517.png)
+
+![Screen-3](https://user-images.githubusercontent.com/97822366/193617515-54c0679d-32e8-46c1-8713-ee7abb2bb499.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
