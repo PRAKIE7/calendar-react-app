@@ -1,5 +1,20 @@
 .App {
-  text-align: center;
+    text-align: center;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}
+
+.flex-container > div {
+  width: 300px;
+  margin: auto;
+}
+ 
+.head {
+  justify-content: center;
 }
 
 .App-logo {
